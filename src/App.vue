@@ -20,6 +20,13 @@ export default {
 
 <style>
 
+h1 {
+  font-size: 40pt;
+  font-weight: bold;
+text-shadow: 1px 1px 4px rgba(150, 150, 150, 0.98);
+cursor: pointer;
+}
+
 .big {
   font-size: 14pt;
 }
@@ -34,6 +41,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>

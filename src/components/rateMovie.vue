@@ -14,7 +14,7 @@
       <td>
         <a class="button"
           v-on:click="reload()">
-            Again?
+            Another film?
         </a>
       </td>
       <td>
@@ -91,9 +91,9 @@ td {
     text-decoration: none;
     color: initial;
 
-    padding: 15pt;
+    padding: 0.5em;
 
-    font-size: 14px;
+    font-size: 1em;
 
     cursor: pointer;
 
